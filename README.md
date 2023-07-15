@@ -28,9 +28,18 @@ The project includes a set of SQL queries designed to perform data analysis on t
 
 Examples of analysis queries:
 
-1.Get the total number of sales per user.
-Calculate the average order value for gold members.
-Identify the top-selling products based on sales volume.
+1.what is total easch customer spend
+2.how may days each customer visited
+3.what is the first product of a customer
+4.what is the most brought product
+5.how many times each customer brought most broght product
+6.which product a customer brought after they become a member
+7.what was broght before becoming gold member
+8.what are the total orders and money spent by customer after becoming member
+9.if product 1 gives 1 point , product 2 =2 points , product 3 gives 3 points , how many points each customer got till now 
+10.calculate which user gets most points
+11.give total amount spend by each non gold member user
+
 
 Usage:
 To use the provided SQL files and run the analysis queries:
